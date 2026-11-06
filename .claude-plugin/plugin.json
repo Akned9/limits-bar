@@ -1,0 +1,15 @@
+{
+  "name": "limits-bar",
+  "version": "0.2.0",
+  "description": "Session (5h) and weekly limit bars above the prompt; hover for %, reset time and tokens",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "Interface language / Язык интерфейса",
+      "default": "en",
+      "options": ["en", "ru"]
+    }
+  }
+}

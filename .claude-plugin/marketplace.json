@@ -1,0 +1,11 @@
+{
+  "name": "limits-bar",
+  "owner": { "name": "Akned9" },
+  "plugins": [
+    {
+      "name": "limits-bar",
+      "source": "./",
+      "description": "Session and weekly limit bars above the prompt"
+    }
+  ]
+}
